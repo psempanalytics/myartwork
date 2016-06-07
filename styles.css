@@ -1,0 +1,62 @@
+.title
+{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+
+.description
+{
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+	color: rgb(100,0,0);
+	border-left: solid;
+	border-color: black;
+	background: rgb(255, 241, 165);
+	width: 500px;
+	padding-left: 150px;
+
+}
+
+.image
+{
+	width: 200px;
+	position: relative;
+	left: 100px;
+}
+
+.chart
+{
+	width:1500px;
+	height:1500px;
+}
+
+.eye
+{
+	stroke: black;
+	fill: white;
+	stroke-width: 5;
+}
+
+.puple{
+	stroke: black;
+	fill:black;
+}
+
+.head{
+	stroke: black;
+	fill: green;
+	stroke-width: 5;	
+}
+
+.mouth{
+		stroke: red;
+		fill:red;
+
+}
+
+.leg{
+	stroke="black"
+  	stroke-width="5" fill="green" 
+}
